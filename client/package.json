@@ -30,7 +30,7 @@
       "localhost",
       ".localhost"
     ],
-    "proxy": "https://localhost:5000/api"
+    "proxy": "https://happytales-backend.vercel.app/api"
   },
   "browserslist": {
     "production": [
